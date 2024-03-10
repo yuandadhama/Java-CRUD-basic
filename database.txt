@@ -1,0 +1,7 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+Dita_2019_1,2019,Dita,gramedia,belajar c++
+Yuan_2005_1,2005,Yuan,HP Production,Newest Version
+faqihza_2019_4,2019,faqihza,gramedia,belajar berlari
+Yuta_2005_1,2005,Yuta,Society of Chinese,Legend Sword
