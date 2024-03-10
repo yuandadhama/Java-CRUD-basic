@@ -1,2 +1,2 @@
 # Java-CRUD-basic
-Java CRUD application about book management.
+Java CRUD console application about book management.
